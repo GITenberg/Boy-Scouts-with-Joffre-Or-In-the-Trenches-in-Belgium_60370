@@ -1,6 +1,9 @@
 _repo: Boy-Scouts-with-Joffre-Or-In-the-Trenches-in-Belgium_60370
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Boy Scouts in Belgium; or, under fire in Flanders
+covers:
+- cover_type: archival
+  image_path: 60370-h/images/cover.jpg
 creator:
   author:
     agent_name: Ralphson, G. Harvey (George Harvey)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/849
     wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60370#Boy-Scouts-with-Joffre-Or-In-the-Trenches-in-Belgium
 gutenberg_issued: '2019-09-27'
 gutenberg_type: Text
 identifiers:
